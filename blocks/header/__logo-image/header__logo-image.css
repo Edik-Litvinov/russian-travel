@@ -1,0 +1,9 @@
+.header__logo-image {
+  vertical-align: bottom;
+}
+
+@media screen and (max-width: 320px) {
+  .header__logo-image {
+    max-width: 142px;
+  }
+}

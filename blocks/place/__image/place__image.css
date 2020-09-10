@@ -6,17 +6,26 @@
 
 @media screen and (max-width: 1024px) {
   .place__image {
+    max-width: 440px;
+    min-height: 440px;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .place__image {
     max-width: 400px;
+    min-height: 400px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .place__image {
     max-width: 340px;
+    min-height: 340px;
   }
 }
 
-@media screen and (min-width: 350px) and (max-width: 630px) {
+@media screen  and (max-width: 650px) {
   .place__image {
     max-width: 320px;
   }
@@ -24,6 +33,7 @@
 
 @media screen and (max-width: 320px) {
   .place__image {
-    width: 100%;
+    max-width: 320px;
+    min-height: 320px;
   }
 }

@@ -2,9 +2,9 @@
   display: flex;
   justify-content: space-between;
   padding: 28px 48px 56px;
-  max-width: 1184px;
-  height: 52px;
-  align-items: center;
+  width: 90%;
+  min-height: 52px;
+  align-items: flex-end;
 }
 
 @media screen and (max-width: 1024px) {
@@ -21,16 +21,12 @@
   }
 }
 
-@media screen and (max-width: 650px) {
-  .header {
-
-  }
-}
 
 @media screen and (max-width: 320px) {
   .header {
     max-width: 288px;
     padding: 16px 16px 0;
     margin-bottom: 48px;
+    min-height: 42px;
   }
 }

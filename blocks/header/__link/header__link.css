@@ -1,0 +1,21 @@
+.header__link {
+  margin-right: 18px;
+  min-width: 29px;
+  min-height: 28px;
+}
+
+.header__link:last-of-type {
+  margin: 0;
+}
+
+.header__link:hover {
+  opacity: 0.8;
+}
+
+
+@media screen and (max-width: 320px) {
+  .header__link {
+    min-width: 22px;
+    min-height: 24px;
+  }
+}

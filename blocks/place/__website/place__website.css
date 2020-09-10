@@ -6,7 +6,7 @@
   grid-column: 2/4;
 }
 
-@media screen and (min-width: 350px) and (max-width: 630px) {
+@media screen  and (max-width: 650px) {
   .place__website {
     display: none;
   }

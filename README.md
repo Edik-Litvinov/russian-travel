@@ -22,4 +22,12 @@
 
 Удачи!
 
-[Ссылка на работу](https://edik-litvinov.github.io/russian-travel/)
+**В работе использовалось:
+*flexbox
+*grid layout
+*псевдоклассы
+*псевдоэлементы
+*позиционирование
+
+
+*[Ссылка на работу](https://edik-litvinov.github.io/russian-travel/)

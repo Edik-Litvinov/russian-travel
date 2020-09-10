@@ -22,12 +22,13 @@
 
 Удачи!
 
-**В работе использовалось:
-*flexbox
-*grid layout
-*псевдоклассы
-*псевдоэлементы
-*позиционирование
+### В работе использовалось:
+* flexbox
+* grid layout
+* псевдоклассы
+* псевдоэлементы
+* позиционирование
+* БЭМ
 
 
-*[Ссылка на работу](https://edik-litvinov.github.io/russian-travel/)
+* [Ссылка на работу](https://edik-litvinov.github.io/russian-travel/)

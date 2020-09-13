@@ -11,7 +11,7 @@
   z-index: 2;
 }
 
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
   .cover__title {
     max-width: 288px;
     font-family: 'Inter', Arial, sans-serif;
@@ -21,10 +21,10 @@
     line-height: 55px;
     margin-bottom: 16px;
   }
-}
+} */
 
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .cover__title {
     max-width: 288px;
     font-family: 'Inter', Arial, sans-serif;

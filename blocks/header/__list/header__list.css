@@ -1,6 +1,12 @@
 .header__list {
   display: flex;
   margin: 0;
-  padding: 0;
+  padding: 0 0 6px;
   list-style: none;
+}
+
+@media screen and (max-width: 320px) {
+	.header__list {
+		padding: 0 0 8px;
+	}
 }

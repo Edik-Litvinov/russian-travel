@@ -10,17 +10,9 @@
   }
 }
 
-
-@media screen and (max-width: 768px) {
+@media screen  and (max-width: 767px) {
   .place__text {
     max-width: 352px;
-  }
-}
-
-
-
-@media screen  and (max-width: 650px) {
-  .place__text {
     grid-column: 1/2;
     grid-row: 4/5;
   }
